@@ -1,0 +1,109 @@
+.img_first {
+    width: 250px;
+}
+
+.div_img_first {
+    box-sizing: border-box;
+    float: right;
+    border: 1px solid black;
+    padding: 10px;
+    width: 300px;
+}
+
+.div_one_top_img {
+    display: block;
+    background: #EAECF0;
+    text-align: center;
+}
+
+.div_img_first p {
+    margin: 5px;
+}
+
+.content_oll {
+    margin: auto;
+    width: 1000px;
+}
+
+table {
+    border: 1px solid black;
+}
+
+.img_poyas {
+    width: 100px;
+}
+
+.conteiner_menu_a {
+    float: left;
+    border: 1px solid #A2A9B1;
+}
+
+.img_nagradu,
+.flag {
+    width: 60px;
+    height: 17px;
+}
+
+.conteiner_nagradu {
+    text-align: center;
+}
+
+.flag {
+    display: flex;
+    padding-left: 45px;
+}
+
+.olimpik_game {
+    display: block;
+    color: #0645BF;
+    text-align: center;
+    background: #DCEBFF;
+}
+
+.olimpik_game a {
+    text-decoration: none;
+}
+
+.olimpik_game a:hover {
+    text-decoration: underline solid red;
+    color: red;
+}
+
+.olimpik_table {
+    width: 280px;
+    text-align: center;
+}
+
+.media_fai {
+    display: flex;
+}
+
+.media_fail img {
+    width: 15px;
+    height: 20px;
+    margin-right: 18px;
+}
+
+.flout_end {
+    clear: both;
+}
+
+.img_olimp_game {
+    display: inline-block;
+    border: 1px solid #C8CCD1;
+    padding: 5px;
+    float: left;
+    margin-right: 10px;
+}
+
+.img_olimp_game img {
+    width: 250px;
+    height: 305px
+}
+
+.citation_rigth {
+    display: block;
+    text-align: right;
+    text-decoration: underline;
+    font-style: italic;
+}
